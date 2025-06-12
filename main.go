@@ -10,9 +10,9 @@ func main() {
 	var choice int
 	for {
 		fmt.Println("====Welcome to converter Suhu====")
-		fmt.Println("1. Konversi C TO K ")
-		fmt.Println("2. Konversi C TO F ")
-		fmt.Println("3. Konversi C TO R ")
+		fmt.Println("1. Konversi Celsius TO Kelvin ")
+		fmt.Println("2. Konversi Celsius TO Farenheit ")
+		fmt.Println("3. Konversi Celsius TO Reamur ")
 		fmt.Println("4. History")
 
 		fmt.Println("Pilih : 1-4")
